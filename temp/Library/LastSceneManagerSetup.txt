@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/scene/realScene/EndScene.unity
+  isLoaded: 1
+  isActive: 1

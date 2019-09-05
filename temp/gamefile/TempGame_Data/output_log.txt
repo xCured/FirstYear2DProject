@@ -1,0 +1,35 @@
+Initialize engine version: 5.5.2f1 (3829d7f588f3)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x134d)
+    Vendor:   NVIDIA
+    VRAM:     2019 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.032 seconds
+Platform assembly: C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\vayda\Desktop\COMPLETED\group unity game\temp\gamefile\TempGame_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 5.251950 ms
+Unloading 7 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.926716 ms
+
+Unloading 8 unused Assets to reduce memory usage. Loaded Objects now: 1483.
+Total: 2.407111 ms (FindLiveObjects: 0.071901 ms CreateObjectMapping: 0.029234 ms MarkObjects: 0.261925 ms  DeleteObjects: 2.043654 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 3698 -> priority: 1 
